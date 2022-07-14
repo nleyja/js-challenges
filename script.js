@@ -23,3 +23,4 @@ function getLargestNumber(num1, num2, num3) {
 
 }
 console.log(getLargestNumber(2, 1, 4));
+console.log(getLargestNumber(6, 2, 3));
